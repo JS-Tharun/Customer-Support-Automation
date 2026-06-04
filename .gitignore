@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 notebooks/datasets/Customer_Support_Tickets_Cleaned.csv
+/notebooks/saved_models
