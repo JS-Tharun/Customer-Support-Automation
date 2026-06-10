@@ -182,3 +182,4 @@ cython_debug/
 notebooks/datasets/Customer_Support_Tickets_Cleaned.csv
 /notebooks/saved_models
 notebooks/datasets/Oversampled.csv
+/notebooks/bert_results
