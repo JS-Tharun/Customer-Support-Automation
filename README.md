@@ -1,14 +1,12 @@
 # 🎧 Customer Support Automation
 
-**XYZ Private Limited · Internal Tool · v1.0**
-
 This system combines a machine learning classifier with a local LLM to automatically triage incoming support tickets and generate polished, empathetic reply drafts — reducing agent workload and response time.
 
 ---
 
 ## 🚩 The Problem
 
-Support teams at XYZ handle hundreds of tickets daily across multiple departments — billing, technical issues, shipping, account management, and more. Manually reading, categorising, and drafting replies is time-consuming, inconsistent, and leaves agents with less time for complex escalations that genuinely need human judgement.
+Support teams handle hundreds of tickets daily across multiple departments — billing, technical issues, shipping, account management, and more. Manually reading, categorising, and drafting replies is time-consuming, inconsistent, and leaves agents with less time for complex escalations that genuinely need human judgement.
 
 ## ✅ The Solution
 
@@ -109,7 +107,3 @@ Support Vector Machines are well-suited to text classification tasks with modera
 Head to the **Customer Support Automation** page using the sidebar to classify a ticket and generate a reply.
 
 > Use the sidebar to navigate to the main tool →
-
----
-
-*XYZ Private Limited · 2025*
