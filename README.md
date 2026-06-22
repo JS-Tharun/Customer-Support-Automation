@@ -100,10 +100,3 @@ Support Vector Machines are well-suited to text classification tasks with modera
 | 👥 HR | Employee-related queries, payroll concerns, policy clarifications, and leave requests. |
 | ⚖️ Legal | Contract reviews, compliance concerns, data privacy requests, and dispute notices. |
 
----
-
-## ▶️ Ready to Try It?
-
-Head to the **Customer Support Automation** page using the sidebar to classify a ticket and generate a reply.
-
-> Use the sidebar to navigate to the main tool →
